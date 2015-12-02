@@ -1,0 +1,6 @@
+framework module TTMMOO3 {
+  umbrella header "TTMMOO3-umbrella.h"
+
+  export *
+  module * { export * }
+}
